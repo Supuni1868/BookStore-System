@@ -8,6 +8,6 @@ package com.bookstore.models;
  *
  * @author HI
  */
-public class CartItems {
+public class CartItem {
     
 }
